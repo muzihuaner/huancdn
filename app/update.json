@@ -1,0 +1,8 @@
+{
+    "Android":{
+    		"version":"1.1.4",
+    		"title":"Hello MUI版本更新",
+        "note":"修复offcanvas偶发性出现菜单不能自动关闭的问题\n修复offcanvas中输入类控件无法focus的问题\n修复Android 4.4以下版本，input type=number控件宽度不是100%的问题\nhello mui支持双击顶部、列表滚到顶部功能",
+    		"url":"https://cdn.jsdelivr.net/gh/muzihuaner/huancdn@main/app/quickso1.1.2.apk"
+    }
+}
