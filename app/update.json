@@ -1,0 +1,10 @@
+{  
+    "appid": "__W2A__quickso.cn",
+    "version": "1.1.3"
+}
+{  
+    "status":1,//升级标志，1：需要升级；0：无需升级  
+    "title": "wap2app版本更新",  
+    "note": "修复bug；已将程序员祭天;",//release notes  
+    "url": "https://cdn.jsdelivr.net/gh/muzihuaner/huancdn@main/app/quickso1.1.2.apk" //更新包下载地址  
+}  
